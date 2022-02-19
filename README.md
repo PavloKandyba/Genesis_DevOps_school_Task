@@ -31,6 +31,7 @@ The following part is almost one command to run complete install and setup:
 git clone https://github.com/PavloKandyba/Genesis_DevOps_school_Task
 cd Genesis_DevOps_school_Task && sudo docker-compose up -d --build
 ```
+**P.S I suspect you wanted it to be Ansible, but since it wasn't mandatory, I chose Bash.**
 
 **#3**
 Visit your site at <http://localhost> and your database via phpMyAdmin
@@ -60,5 +61,3 @@ docker-compose up -d --build
 docker-compose down
 rm -rf certs/* certs-data/* logs/nginx/* mysql/* wordpress/*
 ```
-
-
