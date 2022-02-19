@@ -2,7 +2,7 @@
 
 Note: Assuming the Linux machine has installed all needed packages to run command and YAML file.
 Then skip step #1 and go to the second part.
-if you do not have installed one of the following packages please run prerequesting.sh first:**
+if you do not have installed one of the following packages please run prerequisites.sh first:**
 
 -curl
 -git
@@ -16,11 +16,11 @@ sudo apt install git
 # Download a wordpress docker-compose example
 
 git clone https://github.com/PavloKandyba/Genesis_DevOps_school_Task
-cd Genesis_DevOps_school_Task && docker-compose up -d --build
+cd Genesis_DevOps_school_Task
 
-# Run prerequesting.sh
+# Run prerequisites.sh
 
-sh prerequesting.sh
+sh prerequisites.sh
 ```
 
 **#2**
