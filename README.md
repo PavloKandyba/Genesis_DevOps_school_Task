@@ -15,7 +15,7 @@ sudo apt install git
 
 # Download a wordpress docker-compose example
 
-git clone https://github.com/
+git clone https://github.com/Genesis_DevOps_school_Task
 cd wordpress-docker-compose && docker-compose up -d --build
 
 # Run prerequesting.sh
@@ -28,7 +28,7 @@ The following part is almost one command to run complete install and setup:
 
 ``` bash
 # Download a wordpress docker-compose example
-git clone https://github.com/
+git clone https://github.com/Genesis_DevOps_school_Task
 cd wordpress-docker-compose && docker-compose up -d --build
 ```
 
