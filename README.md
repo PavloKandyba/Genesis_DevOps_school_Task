@@ -1,6 +1,6 @@
 **Tasks for passing to Genesis DevOps school**
 
-Note: Assuming the Linux machine has installed all needed packages to run command and YAML file.
+**Note**: Assuming the Linux machine has installed all needed packages to run command and YAML file.
 Then skip step #1 and go to the second part.
 if you do not have installed one of the following packages please run prerequisites.sh first:**
 
