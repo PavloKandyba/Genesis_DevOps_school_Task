@@ -29,7 +29,7 @@ The following part is almost one command to run complete install and setup:
 ``` bash
 # Download a wordpress docker-compose example
 git clone https://github.com/PavloKandyba/Genesis_DevOps_school_Task
-cd Genesis_DevOps_school_Task && docker-compose up -d --build
+cd Genesis_DevOps_school_Task && sudo docker-compose up -d --build
 ```
 
 **#3**
